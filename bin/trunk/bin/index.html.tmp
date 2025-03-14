@@ -1,0 +1,19 @@
+<html><head><title>asf - Revision 1918369: /hive/trunk/bin</title></head>
+<body>
+ <h2>asf - Revision 1918369: /hive/trunk/bin</h2>
+ <ul>
+  <li><a href="../">..</a></li>
+  <li><a href="beeline">beeline</a></li>
+  <li><a href="beeline.cmd">beeline.cmd</a></li>
+  <li><a href="derbyserver.cmd">derbyserver.cmd</a></li>
+  <li><a href="ext/">ext/</a></li>
+  <li><a href="hive">hive</a></li>
+  <li><a href="hive-config.cmd">hive-config.cmd</a></li>
+  <li><a href="hive-config.sh">hive-config.sh</a></li>
+  <li><a href="hive.cmd">hive.cmd</a></li>
+  <li><a href="hiveserver2">hiveserver2</a></li>
+  <li><a href="init-hive-dfs.sh">init-hive-dfs.sh</a></li>
+  <li><a href="metatool">metatool</a></li>
+  <li><a href="schematool">schematool</a></li>
+ </ul>
+</body></html>
